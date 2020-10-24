@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f570f4e8-d5ee-410f-ae52-fa1b66e4c7bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataframe-examples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataframe-examples-py.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataframe/ingestion/rdd/rdd2df_thru_schema_autoinfer.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataframe/ingestion/rdd/rdd2df_thru_schema_autoinfer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exec_env_setup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/exec_env_setup.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

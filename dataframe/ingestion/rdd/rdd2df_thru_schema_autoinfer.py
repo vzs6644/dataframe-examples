@@ -50,4 +50,7 @@ if __name__ == '__main__':
     txnDfWithColName.printSchema()
     txnDfWithColName.show(5, False)
 
+    test_df = txnDfWithColName.select("txn_id", "created_time_string", "amount")
+    test_df.show()
+
 # spark-submit --packages "org.apache.hadoop:hadoop-aws:2.7.4" dataframe/ingestion/rdd/rdd2df_thru_schema_autoinfer.py
